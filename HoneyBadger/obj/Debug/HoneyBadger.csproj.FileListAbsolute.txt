@@ -1,0 +1,6 @@
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\HoneyBadger\bin\Debug\HoneyBadger.exe.config
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\HoneyBadger\bin\Debug\HoneyBadger.exe
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\HoneyBadger\bin\Debug\HoneyBadger.pdb
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\HoneyBadger\obj\Debug\HoneyBadger.csprojResolveAssemblyReference.cache
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\HoneyBadger\obj\Debug\HoneyBadger.exe
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\HoneyBadger\obj\Debug\HoneyBadger.pdb

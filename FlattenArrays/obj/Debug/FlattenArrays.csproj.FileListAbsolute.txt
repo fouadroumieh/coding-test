@@ -1,0 +1,5 @@
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\FlattenArrays\bin\Debug\FlattenArrays.exe.config
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\FlattenArrays\bin\Debug\FlattenArrays.exe
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\FlattenArrays\bin\Debug\FlattenArrays.pdb
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\FlattenArrays\obj\Debug\FlattenArrays.exe
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\FlattenArrays\obj\Debug\FlattenArrays.pdb

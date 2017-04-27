@@ -1,0 +1,6 @@
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\Sets\bin\Debug\Sets.exe.config
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\Sets\bin\Debug\Sets.exe
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\Sets\bin\Debug\Sets.pdb
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\Sets\obj\Debug\Sets.csprojResolveAssemblyReference.cache
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\Sets\obj\Debug\Sets.exe
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\Sets\obj\Debug\Sets.pdb

@@ -1,0 +1,6 @@
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\Refactor\bin\Debug\Refactor.exe.config
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\Refactor\bin\Debug\Refactor.exe
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\Refactor\bin\Debug\Refactor.pdb
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\Refactor\obj\Debug\Refactor.exe
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\Refactor\obj\Debug\Refactor.pdb
+C:\Users\froumieh\Downloads\CodingTests\CodingTests\Refactor\obj\Debug\Refactor.csprojResolveAssemblyReference.cache
